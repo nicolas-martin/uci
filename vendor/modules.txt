@@ -1,0 +1,6 @@
+# github.com/digineo/go-uci v0.0.0-20200907075334-cd86efb9cb51
+## explicit
+github.com/digineo/go-uci
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
